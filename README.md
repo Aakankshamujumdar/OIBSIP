@@ -17,7 +17,7 @@ This Online Reservation System will include all the necessary fields which are r
 
 # Modules
 
-# Login Form - 
+# Login Form -  
           To access this Online Reservation System, each user should have a valid login id and password. After providing the correct login id and password, users will able to access the main system.
 
 # Reservation System - 
