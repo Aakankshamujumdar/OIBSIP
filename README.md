@@ -26,5 +26,15 @@ To access this Online Reservation System, each user should have a valid login id
 # Reservation System - 
 Under reservation form users will have to fill the necessary details such as their basic detalls, train number, train name will automatically come in the box, class type, date of Journey, from (place) to destination and after that, users will have to press insert button.
 
+![image](https://github.com/Aakankshamujumdar/OIBSIP/assets/134593446/e27330b4-1e5d-4daa-8247-693952cbf2e5)
+
+![image](https://github.com/Aakankshamujumdar/OIBSIP/assets/134593446/fda646c8-e3ea-4a07-b4f4-c476aaa00b1f)
+
+
 # Cancellation Form -
 If passengers want to cancel their tickets then they have to provide their PNR number and after submitting it, this will display the entire information related to that particular PNR number. If users want to confirm their cancellation, In this case they have to press OK button.
+
+![image](https://github.com/Aakankshamujumdar/OIBSIP/assets/134593446/b9ff5cdf-3070-4927-868f-c2e3826e705d)
+
+![image](https://github.com/Aakankshamujumdar/OIBSIP/assets/134593446/421e0100-1743-4d47-beac-5f9aba00fa8c)
+
